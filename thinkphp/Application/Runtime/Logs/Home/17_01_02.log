@@ -1,0 +1,48 @@
+[ 2017-01-02T14:06:30+08:00 ] ::1 /thinkphp/index.php/Home/Login/css/login.css
+ERR: 非法操作:css
+
+[ 2017-01-02T14:06:30+08:00 ] ::1 /thinkphp/index.php/Home/Login/js/jquery-1.7.2.min.js
+ERR: 非法操作:js
+
+[ 2017-01-02T14:07:26+08:00 ] ::1 /thinkphp/index.php/Home/Login/css/login.css
+ERR: 非法操作:css
+
+[ 2017-01-02T14:18:41+08:00 ] ::1 /thinkphp/index.php/Home/Login/css/zhuce.css
+ERR: 非法操作:css
+
+[ 2017-01-02T14:18:41+08:00 ] ::1 /thinkphp/index.php/Home/Login/js/jquery-1.7.2.min.js
+ERR: 非法操作:js
+
+[ 2017-01-02T14:18:41+08:00 ] ::1 /thinkphp/index.php/Home/Login/css/zhuce.css
+ERR: 非法操作:css
+
+[ 2017-01-02T16:39:34+08:00 ] ::1 /thinkphp/index.php/Home/Yzm/captcha
+ERR: 无法加载控制器:Yzm
+
+[ 2017-01-02T16:39:35+08:00 ] ::1 /thinkphp/index.php/Home/Yzm/captcha?run=85
+ERR: 无法加载控制器:Yzm
+
+[ 2017-01-02T16:56:55+08:00 ] ::1 /thinkphp/index.php/Home/Login/admin_list
+ERR: 非法操作:admin_list
+
+[ 2017-01-02T17:02:24+08:00 ] ::1 /thinkphp/index.php/Home/Index/lanmu.html
+ERR: 非法操作:lanmu
+
+[ 2017-01-02T18:55:10+08:00 ] ::1 /thinkphp/index.php/Home/Index/css/address.css
+ERR: 非法操作:css
+
+[ 2017-01-02T18:58:46+08:00 ] ::1 /thinkphp/index.php/Home/Index/lanmu.html
+ERR: 非法操作:lanmu
+
+[ 2017-01-02T18:58:49+08:00 ] ::1 /thinkphp/index.php/Home/Index/lanmu.html
+ERR: 非法操作:lanmu
+
+[ 2017-01-02T19:17:01+08:00 ] ::1 /thinkphp/index.php/Home/Index/my_order.html
+ERR: 非法操作:my_order
+
+[ 2017-01-02T19:22:34+08:00 ] ::1 /thinkphp/index.php/Home/Index/details.html
+ERR: 非法操作:details
+
+[ 2017-01-02T19:22:39+08:00 ] ::1 /thinkphp/index.php/Home/Index/details.html
+ERR: 非法操作:details
+

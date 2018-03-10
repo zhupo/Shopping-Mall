@@ -1,0 +1,12 @@
+[ 2017-01-02T23:16:46+08:00 ] ::1 /thinkphp/index.php/Admin/product/cate.html
+ERR: 非法操作:cate
+
+[ 2017-01-02T23:17:19+08:00 ] ::1 /thinkphp/index.php/Admin/product/column.html
+ERR: 非法操作:column
+
+[ 2017-01-02T23:21:42+08:00 ] ::1 /thinkphp/index.php/Admin/product/column.html
+ERR: 非法操作:column
+
+[ 2017-01-02T23:21:46+08:00 ] ::1 /thinkphp/index.php/Admin/product/info.html
+ERR: 非法操作:info
+

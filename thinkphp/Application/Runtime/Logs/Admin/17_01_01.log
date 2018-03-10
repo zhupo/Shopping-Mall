@@ -1,0 +1,32 @@
+[ 2017-01-01T16:05:20+08:00 ] ::1 /thinkphp/index.php/Admin/Class/class_del/id/1
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`mydata`.`nc_product`, CONSTRAINT `nc_product_ibfk_1` FOREIGN KEY (`classId`) REFERENCES `nc_class` (`Id`))
+ [ SQL语句 ] : DELETE FROM `nc_class` WHERE `Id` = 1
+
+[ 2017-01-01T17:23:20+08:00 ] ::1 /thinkphp/index.php/Admin/Admin/admin_delmore
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : DELETE FROM `nc_admin` WHERE `Id` IN ()
+
+[ 2017-01-01T17:23:27+08:00 ] ::1 /thinkphp/index.php/Admin/Admin/admin_delmore
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : DELETE FROM `nc_admin` WHERE `Id` IN ()
+
+[ 2017-01-01T17:24:06+08:00 ] ::1 /thinkphp/index.php/Admin/Admin/admin_delmore
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : DELETE FROM `nc_admin` WHERE `Id` IN ()
+
+[ 2017-01-01T17:24:15+08:00 ] ::1 /thinkphp/index.php/Admin/Admin/admin_delmore
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : DELETE FROM `nc_admin` WHERE `Id` IN ()
+
+[ 2017-01-01T17:24:22+08:00 ] ::1 /thinkphp/index.php/Admin/Admin/admin_delmore
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : DELETE FROM `nc_admin` WHERE `Id` IN ()
+
+[ 2017-01-01T17:31:25+08:00 ] ::1 /thinkphp/index.php/Admin/Admin/admin_delmore
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : DELETE FROM `nc_admin` WHERE ( Id in  )
+
+[ 2017-01-01T17:32:23+08:00 ] ::1 /thinkphp/index.php/Admin/Admin/admin_delmore
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : DELETE FROM `nc_admin` WHERE ( Id in  )
+

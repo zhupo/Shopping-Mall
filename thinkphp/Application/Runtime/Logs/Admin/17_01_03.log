@@ -1,0 +1,90 @@
+[ 2017-01-03T00:00:34+08:00 ] ::1 /thinkphp/index.php/Admin/Home
+ERR: 无法加载控制器:Home
+
+[ 2017-01-03T00:00:56+08:00 ] ::1 /thinkphp/index.php/Admin/Home/Index/index
+ERR: 无法加载控制器:Home
+
+[ 2017-01-03T00:01:31+08:00 ] ::1 /thinkphp/index.php/Admin/product/__App__/Home/Index/index
+ERR: 非法操作:__App__
+
+[ 2017-01-03T00:02:11+08:00 ] ::1 /thinkphp/index.php/Admin/product/__Application__/Home/Index/index
+ERR: 非法操作:__Application__
+
+[ 2017-01-03T00:02:36+08:00 ] ::1 /thinkphp/index.php/Admin/product/Home/Index/index
+ERR: 非法操作:Home
+
+[ 2017-01-03T00:07:26+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/pass
+ERR: 无法加载控制器:Jiben
+
+[ 2017-01-03T00:08:04+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-01-03T00:08:04+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-01-03T00:08:04+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-01-03T00:08:04+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-01-03T00:08:04+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-01-03T00:08:10+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-01-03T00:08:10+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-01-03T00:08:10+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-01-03T00:08:10+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-01-03T00:09:28+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-01-03T00:09:28+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-01-03T00:09:28+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-01-03T00:09:28+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-01-03T00:09:28+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-01-03T00:09:31+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-01-03T00:09:31+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-01-03T00:09:31+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-01-03T00:09:31+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-01-03T00:09:44+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-01-03T00:09:44+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-01-03T00:09:44+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-01-03T00:09:44+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-01-03T00:09:44+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-01-03T00:09:44+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/js/pintuer.js
+ERR: 非法操作:js
+

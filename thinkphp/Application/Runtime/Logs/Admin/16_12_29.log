@@ -1,0 +1,104 @@
+[ 2016-12-29T10:34:38+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T10:34:49+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T10:35:31+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T10:35:46+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T10:35:52+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T10:37:23+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T11:37:32+08:00 ] ::1 /thinkphp/index.php/Admin/Admin/admin_list
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '12%' or realName like '%'12%'  ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `nc_admin` WHERE ( adminname like '%'12%' or realName like '%'12%'  ) LIMIT 1  
+
+[ 2016-12-29T11:37:45+08:00 ] ::1 /thinkphp/index.php/Admin/Admin/admin_list
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'admin%' or realName like '%'admin%'  ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `nc_admin` WHERE ( adminname like '%'admin%' or realName like '%'admin%'  ) LIMIT 1  
+
+[ 2016-12-29T11:37:53+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T11:40:10+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T11:40:15+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T11:44:22+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T11:50:37+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T11:50:49+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T11:51:45+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T11:53:23+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T11:53:30+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T11:54:34+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T11:54:37+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T11:54:44+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T11:56:58+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T12:02:16+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T12:03:02+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T12:05:20+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T12:06:57+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T12:08:31+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T12:09:55+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T12:13:17+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T12:13:20+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list/p/2.html
+ERR: 无法加载控制器:Admin_list
+
+[ 2016-12-29T12:28:20+08:00 ] ::1 /thinkphp/index.php/Admin/Test/test
+ERR: 无法加载控制器:Test
+
+[ 2016-12-29T12:28:59+08:00 ] ::1 /thinkphp/index.php/Admin/Test/test
+ERR: 无法加载控制器:Test
+
+[ 2016-12-29T12:29:55+08:00 ] ::1 /thinkphp/index.php/Admin/Test/test
+ERR: 无法加载控制器:Test
+
+[ 2016-12-29T12:31:01+08:00 ] ::1 /thinkphp/index.php/Admin/Test
+ERR: 无法加载控制器:Test
+
+[ 2016-12-29T12:34:25+08:00 ] ::1 /thinkphp/index.php/Admin/admin_list
+ERR: 无法加载控制器:Admin_list
+

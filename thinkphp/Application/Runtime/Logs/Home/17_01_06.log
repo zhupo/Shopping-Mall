@@ -1,0 +1,12 @@
+[ 2017-01-06T11:20:37+08:00 ] ::1 /thinkphp/index.php/Home/Product/details/id/js/owl.carousel.min.js
+ERR: 1054:Unknown column 'js' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `nc_product` WHERE ( Id=js ) LIMIT 1  
+
+[ 2017-01-06T11:58:30+08:00 ] ::1 /thinkphp/index.php/Home/Product/details/id/js/owl.carousel.min.js
+ERR: 1054:Unknown column 'js' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `nc_product` WHERE ( Id=js ) LIMIT 1  
+
+[ 2017-01-06T11:59:58+08:00 ] ::1 /thinkphp/index.php/Home/Product/details/id/js/owl.carousel.min.js
+ERR: 1054:Unknown column 'js' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `nc_product` WHERE ( Id=js ) LIMIT 1  
+

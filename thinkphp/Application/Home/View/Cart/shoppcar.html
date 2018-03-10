@@ -1,0 +1,107 @@
+<link href="__PUBLIC__/public_home/css/gouwuche.css" type="text/css" rel="stylesheet"/>
+<!---------------------导航完--------------------->
+
+<!--------------------内容----------------------->
+<div class="wt1080">
+    <!--------------标题----------->
+    <div class="my_car">
+        <h1>我的购物车</h1>
+        <div class="place">
+            <ul>
+                <li class="current"><span>1</span><p>我的购物车</p></li>
+                <li><span>2</span><p>提交订单</p></li>
+                <li><span>3</span><p>选择支付方式</p></li>
+            </ul>
+            <span class="heng"></span>
+        </div>
+    </div>
+    <!--------------选择----------->
+    <div class="details">
+        <div class="title">
+            <div style="text-align: left;width: 84px;"><input type="checkbox" style="float: left;margin-top: 1px;margin-right: 5px;cursor: pointer" />全选</div>
+            <div style="width: 432px;">商品</div>
+            <div style="width: 141px;">单价</div>
+            <div style="width: 141px;">数量</div>
+            <div style="width: 141px;">合计</div>
+            <div style="width: 141px;">操作</div>
+        </div>
+        <!-----------------------商品展示---------------------------->
+        <div class="goods">
+        	<foreach name='data' item='v'>
+                <div class="goods_details">
+                  <div class="g_one"><input type="checkbox" name="ID[]" value="{$v.id}" /></div>
+                    <div class="g_two">
+                        <div class="h">
+                            <div class="pic"><a href="#"><img src="__PUBLIC__/uploads/{$v.thumb}"></a></div>
+                            <div class="miaoshu">
+                                <p style="margin-top: 5px;"><a href="#">{$v.title}</a></p>
+                                <p style="color: #888888;margin-top: 5px;">杭州保税区仓</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="g_three"><p class="y"></p><p class="k">￥{$v.price}</p></div>
+                    <div class="g_four">
+                        <div>
+                            <span style="border-right: 1px solid #eeeeee">-</span>
+                            <input name="" type="text" value="{$v.productnum}">
+                            <span style="border-left: 1px solid #eeeeee">+</span>
+                        </div>
+                    </div>
+                    <div class="g_five"><p>￥{$v.price}</p></div>
+                    <div class="g_six"><a href="__CONTROLLER__/shoppdel/id/{$v.id}"><span></span></a></div>
+                </div>
+            </foreach>
+        </div>
+        <!------------------下部分------------------>
+        <div class="d_d">
+            <div class="d_d_l">
+                <a href="#" style="margin-left: 10px;">删除选中商品</a>
+            </div>
+
+            <div class="d_d_r">
+                <p class="o">已选商品<span>1</span>件<font>总价（不含运费）：<span>118.00</span></font></p>
+                <p class="t">商品应付总计：￥198.00<font>订单关税：￥0</font></p>
+            </div>
+            <a href="order.html" class="jiesuan">去结算</a>
+        </div>
+    </div>
+    <!---------------------热销------------------>
+    <div class="hot">
+        <div class="title">热销推荐</div>
+        <div class="content">
+            <ul>
+                <li>
+                    <div class="pic"><a href="#"><img src="__PUBLIC__/public_home/image/p11.png"></a></div>
+                    <p class="c_t"><a href="#">Regen/丽珍 纯棉超细纤维美白皮肤面膜贴 10片</a></p>
+                    <p class="price">￥89.00</p>
+                    <a href="#" class="goumai">立即购买</a>
+                </li>
+                <li>
+                    <div class="pic"><a href="#"><img src="__PUBLIC__/public_home/image/p11.png"></a></div>
+                    <p class="c_t"><a href="#">Regen/丽珍 纯棉超细纤维美白皮肤面膜贴 10片</a></p>
+                    <p class="price">￥89.00</p>
+                    <a href="#" class="goumai">立即购买</a>
+                </li>
+                <li>
+                    <div class="pic"><a href="#"><img src="__PUBLIC__/public_home/image/p11.png"></a></div>
+                    <p class="c_t"><a href="#">Regen/丽珍 纯棉超细纤维美白皮肤面膜贴 10片</a></p>
+                    <p class="price">￥89.00</p>
+                    <a href="#" class="goumai">立即购买</a>
+                </li>
+                <li>
+                    <div class="pic"><a href="#"><img src="__PUBLIC__/public_home/image/p11.png"></a></div>
+                    <p class="c_t"><a href="#">Regen/丽珍 纯棉超细纤维美白皮肤面膜贴 10片</a></p>
+                    <p class="price">￥89.00</p>
+                    <a href="#" class="goumai">立即购买</a>
+                </li>
+                <li>
+                    <div class="pic"><a href="#"><img src="__PUBLIC__/public_home/image/p11.png"></a></div>
+                    <p class="c_t"><a href="#">Regen/丽珍 纯棉超细纤维美白皮肤面膜贴 10片</a></p>
+                    <p class="price">￥89.00</p>
+                    <a href="#" class="goumai">立即购买</a>
+                </li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,28 @@
+<link href="__PUBLIC__/public_home/css/liebiao.css" type="text/css" rel="stylesheet"/>
+<!---------------------导航完--------------------->
+<div class="content">
+    <!-------------------位置------------------>
+    <div class="place">
+        位置：{$arr['classname']}<a class="check" href="#"></a>共<span class="number">1244</span>件热卖商品
+        <a class="biaoqian pa1" href="#">人气 ↑</a>
+        <a class="biaoqian pa2" href="#">价格 ↑</a>
+        <a class="biaoqian pa3" href="#">销量 ↑</a>
+    </div>
+    <!----------------产品详细------------------->
+    <div class="product">
+        <ul>
+        	<foreach name='data' item='v'>
+                <li>
+                    <div class="pic"><a href="__CONTROLLER__/details/id/{$v.id}"><img src="__PUBLIC__/uploads/{$v.thumb}"></a></div>
+                    <p class="one"><a href="details.html">{$v.title}</a></p>
+                    <p class="two"><span style="color: #fe5500">￥<span class="real">{$v.price}</span></span><span class="wrong">￥896.00</span></p>
+                </li>
+            </foreach>
+        </ul>
+        <div class="clear"></div>
+    </div>
+    <div class="pagelist">{$page}</div>
+</div>
+
+
+

@@ -1,0 +1,15 @@
+[ 2017-01-06T11:27:39+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/css/pintuer.css
+ERR: 非法操作:css
+
+[ 2017-01-06T11:27:39+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/css/admin.css
+ERR: 非法操作:css
+
+[ 2017-01-06T11:27:39+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/js/pintuer.js
+ERR: 非法操作:js
+
+[ 2017-01-06T11:27:39+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-01-06T11:27:39+08:00 ] ::1 /thinkphp/index.php/Admin/Jiben/js/pintuer.js
+ERR: 非法操作:js
+

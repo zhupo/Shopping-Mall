@@ -1,0 +1,61 @@
+<div class="panel admin-panel">
+  <div class="panel-head" id="add"><strong><span class="icon-pencil-square-o"></span>添加管理员</strong></div>
+  <div class="padding border-bottom">
+      <ul class="search" style="padding-left:10px;">
+        <li> <a class="button border-main" href="__MODULE__/Admin/admin_list">返回列表</a> </li>
+      </ul>
+  </div>
+  <div class="body-content">
+    <form method="post" class="form-x" action="">  
+      <div class="form-group">
+        <div class="label">
+          <label>管理员账号：</label>
+        </div>
+        <div class="field">
+          <input type="text" class="input w50" value="" name="adminname" data-validate="required:账号不能为空" />
+        </div>
+      </div>
+      <div class="form-group">
+        <div class="label">
+          <label>管理员密码：</label>
+        </div>
+        <div class="field">
+          <input type="password" id="url1" name="adminPassword" class="input w50" data-validate="required:密码不能为空" />
+        </div>
+      </div>
+      <div class="form-group">
+        <div class="label">
+          <label>真实姓名：</label>
+        </div>
+        <div class="field">
+          <input type="text" id="url1" name="realName" class="input w50" data-validate="required:真实姓名不能为空" />
+        </div>
+      </div>      
+	  <div class="form-group">
+        <div class="label">
+          <label>性别：</label>
+        </div>
+        <div class="field" style="margin-top:8px;">
+           男<input type="radio" name="sex" checked="checked" style="cursor:pointer;" value="男" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+           女<input type="radio" name="sex" value="女" style="cursor:pointer;" />
+        </div>
+      </div>
+      <div class="form-group">
+        <div class="label">
+          <label>联系方式：</label>
+        </div>
+        <div class="field">
+          <input type="text" id="url1" name="phone" class="input w50" data-validate="required:联系方式不能为空"/>
+        </div>
+      </div>  
+      <div class="form-group">
+        <div class="label">
+          <label></label>
+        </div>
+        <div class="field">
+          <button class="button bg-main icon-check-square-o" type="submit"> 提交</button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
